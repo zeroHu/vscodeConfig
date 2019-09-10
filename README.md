@@ -8,42 +8,55 @@
 
 #### 插件名
 
-（R)： 墙裂推荐
+_（R)： 墙裂推荐_
 **美观和格式化用插件**
--Auto Close Tag（R)
--Auto Import（R)
--Beautify（R)
--Prettier（R)
--Prettify JSON（R)
--vscode-styled-components（R)
+
+>
+
+    -Auto Close Tag（R)
+    -Auto Import（R)
+    -Beautify（R)
+    -Prettier（R)
+    -Prettify JSON（R)
+    -vscode-styled-components（R)
 
 **检测类 插件**
--ESlint（R)
--Javascript(es6) code snippets
 
--Guides
--IntelliSense for CSS class names in HTML // class name validate
--Sass
+>
+
+    -ESlint（R)
+    -Javascript(es6) code snippets
+
+    -Guides
+    -IntelliSense for CSS class names in HTML // class name validate
+    -Sass
 
 **git 帮助 用插件**
--Git Blame（R)
--Git History
--gitignore
--gitK（R)
--GitLens（R)
+
+>
+
+    -Git Blame（R)
+    -Git History
+    -gitignore
+    -gitK（R)
+    -GitLens（R)
 
 **工具类 开发用插件**
 
--TODO highlight
--Coder Runner（R)
--View In Browser（R)
+>
+
+    -TODO highlight
+    -Coder Runner（R)
+    -View In Browser（R)
 
 **vue and react 开发用插件**
 
--React Redux ES6 Snippets
--vue 2 snippets
--vuehelper
--Vetur
+>
+
+    -React Redux ES6 Snippets
+    -vue 2 snippets
+    -vuehelper
+    -Vetur
 
 #### 本机安装的插件图片
 
